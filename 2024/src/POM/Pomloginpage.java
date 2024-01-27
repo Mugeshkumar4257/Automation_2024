@@ -7,7 +7,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 public class Pomloginpage {
-@FindBy(how = How.ID,using = "username") // (@Find by) Page factory class in build in Selenium
+@FindBy(how = How.ID,using = "username") // (@Find by) Page factory class is build in Selenium
     public static WebElement username;
 @FindBy(id="password")
     public static WebElement password;
