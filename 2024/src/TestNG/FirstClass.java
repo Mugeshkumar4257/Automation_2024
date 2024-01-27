@@ -12,7 +12,7 @@ public class FirstClass {
 
 
 
-    /*@Test(priority = 4,enabled = false)
+    /*@Test(priority = 4)
     public void music (){
         System.out.println("turn on the music");
     }
